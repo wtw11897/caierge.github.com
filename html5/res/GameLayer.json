@@ -1,0 +1,596 @@
+{
+  "ID": "2f0f0108-98d7-4c8f-b0aa-dc9dbaa7e250",
+  "Version": "2.3.2.3",
+  "Name": "GameLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 72,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bg1.png",
+              "Plist": "texture.plist"
+            },
+            "Scale9Width": 800,
+            "Scale9Height": 600,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 73,
+            "ActionTag": 110466946,
+            "Size": {
+              "X": 640.0,
+              "Y": 960.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 72,
+            "LabelText": "第二十首",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 852.4945
+            },
+            "Scale": {
+              "ScaleX": 1.2046,
+              "ScaleY": 1.07
+            },
+            "CColor": {
+              "R": 0,
+              "G": 128,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.888
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 212.0,
+            "RightMargin": 212.0,
+            "TopMargin": 67.0055,
+            "BottomMargin": 811.9945,
+            "Tag": 76,
+            "ActionTag": 1618234570,
+            "Size": {
+              "X": 288.0,
+              "Y": 81.0
+            },
+            "Name": "seqLabel",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "zanting.png",
+              "Plist": "texture.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 20,
+            "Scale9Height": 28,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 732.9998
+            },
+            "Scale": {
+              "ScaleX": 1.6,
+              "ScaleY": 1.6
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.7635
+            },
+            "PreSize": {
+              "X": 0.0781,
+              "Y": 0.0521
+            },
+            "LeftMargin": 295.0,
+            "RightMargin": 295.0,
+            "TopMargin": 202.0002,
+            "BottomMargin": 707.9998,
+            "Tag": 77,
+            "ActionTag": -1190381134,
+            "Size": {
+              "X": 50.0,
+              "Y": 50.0
+            },
+            "Name": "playBtn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "se_1.png",
+              "Plist": "texture.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 628.0
+            },
+            "Scale": {
+              "ScaleX": 1.4174,
+              "ScaleY": 1.5217
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6542
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 205.0,
+            "RightMargin": 205.0,
+            "TopMargin": 309.0,
+            "BottomMargin": 605.0,
+            "Tag": 78,
+            "ActionTag": 2095509578,
+            "Size": {
+              "X": 230.0,
+              "Y": 46.0
+            },
+            "Name": "soundEffectSp",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 48,
+            "LabelText": "请选择歌名",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 503.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "G": 49,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.524
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 200.0,
+            "RightMargin": 200.0,
+            "TopMargin": 430.0,
+            "BottomMargin": 476.0,
+            "Tag": 79,
+            "ActionTag": -621315183,
+            "Size": {
+              "X": 240.0,
+              "Y": 54.0
+            },
+            "Name": "Text_2",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 72,
+            "LabelText": "《我们是共产主义接班人》",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 315.9999
+            },
+            "Scale": {
+              "ScaleX": 0.6799,
+              "ScaleY": 0.6914
+            },
+            "CColor": {
+              "R": 18,
+              "G": 162,
+              "B": 85
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.3292
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 104.0,
+            "RightMargin": 104.0,
+            "TopMargin": 603.5001,
+            "BottomMargin": 275.4999,
+            "Tag": 80,
+            "ActionTag": 1054277397,
+            "Size": {
+              "X": 864.0,
+              "Y": 81.0
+            },
+            "Name": "name2Label",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 72,
+            "LabelText": "《我们是共产主义接班人》",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 133.9998
+            },
+            "Scale": {
+              "ScaleX": 0.6799,
+              "ScaleY": 0.6914
+            },
+            "CColor": {
+              "R": 18,
+              "G": 162,
+              "B": 85
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1396
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -112.0,
+            "RightMargin": -112.0,
+            "TopMargin": 785.5002,
+            "BottomMargin": 93.4998,
+            "Tag": 81,
+            "ActionTag": 867992809,
+            "Size": {
+              "X": 864.0,
+              "Y": 81.0
+            },
+            "Name": "name4Label",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 72,
+            "LabelText": "《我们是共产主义接班人》",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 224.9998
+            },
+            "Scale": {
+              "ScaleX": 0.6799,
+              "ScaleY": 0.6914
+            },
+            "CColor": {
+              "R": 18,
+              "G": 162,
+              "B": 85
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.2344
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 140.0,
+            "RightMargin": 140.0,
+            "TopMargin": 694.5001,
+            "BottomMargin": 184.4998,
+            "Tag": 82,
+            "ActionTag": -1634457352,
+            "Size": {
+              "X": 864.0,
+              "Y": 81.0
+            },
+            "Name": "name3Label",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 72,
+            "LabelText": "《我们是共产主义接班人》",
+            "HorizontalAlignmentType": "HT_Center",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 407.0
+            },
+            "Scale": {
+              "ScaleX": 0.6799,
+              "ScaleY": 0.6914
+            },
+            "CColor": {
+              "R": 18,
+              "G": 162,
+              "B": 85
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.424
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": -40.0,
+            "RightMargin": -40.0,
+            "TopMargin": 512.5,
+            "BottomMargin": 366.5,
+            "Tag": 83,
+            "ActionTag": -828132658,
+            "Size": {
+              "X": 864.0,
+              "Y": 81.0
+            },
+            "Name": "name1Label",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "Button",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "next.png",
+              "Plist": "texture.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 130,
+            "Scale9Height": 138,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 628.0
+            },
+            "Scale": {
+              "ScaleX": 0.5125,
+              "ScaleY": 0.5
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.6542
+            },
+            "PreSize": {
+              "X": 0.25,
+              "Y": 0.1667
+            },
+            "LeftMargin": 240.0,
+            "RightMargin": 240.0,
+            "TopMargin": 252.0,
+            "BottomMargin": 548.0,
+            "Tag": 84,
+            "ActionTag": 257193173,
+            "Size": {
+              "X": 160.0,
+              "Y": 160.0
+            },
+            "VisibleForFrame": false,
+            "Name": "nextBtn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Press.png",
+        "texture.plist",
+        "texture.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}

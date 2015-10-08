@@ -1,0 +1,244 @@
+{
+  "ID": "cb540d62-3b1e-4b17-a4c7-760e4718868a",
+  "Version": "2.3.2.3",
+  "Name": "SuccessLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 61,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bg1.png",
+              "Plist": "texture.plist"
+            },
+            "Scale9Width": 800,
+            "Scale9Height": 600,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 62,
+            "ActionTag": 199829059,
+            "Size": {
+              "X": 640.0,
+              "Y": 960.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "suc1.png",
+              "Plist": "texture.plist"
+            },
+            "Scale9Width": 400,
+            "Scale9Height": 100,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 778.0012
+            },
+            "Scale": {
+              "ScaleX": 0.715,
+              "ScaleY": 0.72
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.8104
+            },
+            "PreSize": {
+              "X": 0.625,
+              "Y": 0.1042
+            },
+            "LeftMargin": 120.0,
+            "RightMargin": 120.0,
+            "TopMargin": 131.9988,
+            "BottomMargin": 728.0012,
+            "Tag": 63,
+            "ActionTag": -431250367,
+            "Size": {
+              "X": 400.0,
+              "Y": 100.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 24,
+            "LabelText": "恭喜你找回了童年生活的美好回忆!\n",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 313.3596,
+              "Y": 607.5
+            },
+            "Scale": {
+              "ScaleX": 1.3748,
+              "ScaleY": 1.5047
+            },
+            "CColor": {
+              "G": 104,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4896,
+              "Y": 0.6328
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 129.8596,
+            "RightMargin": 143.1404,
+            "TopMargin": 324.5,
+            "BottomMargin": 579.5,
+            "Tag": 64,
+            "ActionTag": 1325591421,
+            "Size": {
+              "X": 367.0,
+              "Y": 56.0
+            },
+            "Name": "Text_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "again.png",
+              "Plist": "texture.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 120,
+            "Scale9Height": 28,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 319.9999,
+              "Y": 408.9998
+            },
+            "Scale": {
+              "ScaleX": 1.4,
+              "ScaleY": 1.32
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.426
+            },
+            "PreSize": {
+              "X": 0.2344,
+              "Y": 0.0521
+            },
+            "LeftMargin": 244.9999,
+            "RightMargin": 245.0001,
+            "TopMargin": 526.0002,
+            "BottomMargin": 383.9998,
+            "Tag": 65,
+            "ActionTag": -992333271,
+            "Size": {
+              "X": 150.0,
+              "Y": 50.0
+            },
+            "Name": "replay",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Press.png",
+        "texture.plist",
+        "texture.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
