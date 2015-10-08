@@ -1,0 +1,284 @@
+{
+  "ID": "11741c9f-09f7-4af3-98d7-4aa9a438f7e3",
+  "Version": "2.3.2.3",
+  "Name": "StartLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 55,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bg.png",
+              "Plist": "texture.plist"
+            },
+            "Scale9Width": 800,
+            "Scale9Height": 600,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 480.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 56,
+            "ActionTag": 1231088970,
+            "Size": {
+              "X": 640.0,
+              "Y": 960.0
+            },
+            "Name": "Image_1",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "title.png",
+              "Plist": "texture.plist"
+            },
+            "Scale9Width": 241,
+            "Scale9Height": 140,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 731.5
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.762
+            },
+            "PreSize": {
+              "X": 0.3766,
+              "Y": 0.1458
+            },
+            "LeftMargin": 199.5,
+            "RightMargin": 199.5,
+            "TopMargin": 158.5,
+            "BottomMargin": 661.5,
+            "Tag": 57,
+            "ActionTag": 506509824,
+            "Size": {
+              "X": 241.0,
+              "Y": 140.0
+            },
+            "Name": "Image_2",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 10,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 0,
+              "G": 128,
+              "B": 0
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 388.0008
+            },
+            "Scale": {
+              "ScaleX": 4.087,
+              "ScaleY": 2.1111
+            },
+            "CColor": {
+              "G": 225,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4042
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 297.0,
+            "RightMargin": 297.0,
+            "TopMargin": 553.9991,
+            "BottomMargin": 370.0008,
+            "Tag": 58,
+            "ActionTag": -292324984,
+            "Size": {
+              "X": 46.0,
+              "Y": 36.0
+            },
+            "Name": "start",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "kaishi.png",
+              "Plist": "texture.plist"
+            },
+            "Scale9Width": 200,
+            "Scale9Height": 51,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 320.0,
+              "Y": 388.0008
+            },
+            "Scale": {
+              "ScaleX": 0.72,
+              "ScaleY": 0.8039
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.4042
+            },
+            "PreSize": {
+              "X": 0.3125,
+              "Y": 0.0531
+            },
+            "LeftMargin": 220.0,
+            "RightMargin": 220.0,
+            "TopMargin": 546.4991,
+            "BottomMargin": 362.5008,
+            "Tag": 59,
+            "ActionTag": 1730504372,
+            "Size": {
+              "X": 200.0,
+              "Y": 51.0
+            },
+            "Name": "Image_3",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "fuhao.png",
+              "Plist": "texture.plist"
+            },
+            "BlendFunc": {
+              "Src": 770,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 433.4991,
+              "Y": 750.9995
+            },
+            "Scale": {
+              "ScaleX": 0.32,
+              "ScaleY": 0.3375
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6773,
+              "Y": 0.7823
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 383.4991,
+            "RightMargin": 156.5009,
+            "TopMargin": 129.0005,
+            "BottomMargin": 670.9995,
+            "Tag": 60,
+            "ActionTag": -1105022315,
+            "Size": {
+              "X": 100.0,
+              "Y": 160.0
+            },
+            "Name": "fuhao",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "texture.plist",
+        "texture.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
